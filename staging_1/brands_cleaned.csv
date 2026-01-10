@@ -1,0 +1,10 @@
+brand_id,brand_name,extracted_date,data_source
+1,Electra,2025-11-24 02:47:01,from_csv_file
+2,Haro,2025-11-24 02:47:01,from_csv_file
+3,Heller,2025-11-24 02:47:01,from_csv_file
+4,Pure Cycles,2025-11-24 02:47:01,from_csv_file
+5,Ritchey,2025-11-24 02:47:01,from_csv_file
+6,Strider,2025-11-24 02:47:01,from_csv_file
+7,Sun Bicycles,2025-11-24 02:47:01,from_csv_file
+8,Surly,2025-11-24 02:47:01,from_csv_file
+9,Trek,2025-11-24 02:47:01,from_csv_file
