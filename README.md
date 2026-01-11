@@ -188,7 +188,7 @@ dim_region
 dim_order_status
 
 This structure enables fast analytical queries and reporting.
-![Modeling](images/modeling.jpg)
+![Modeling](images/modeling.png)
 
 6. Challenges & Solutions
 Challenge	Solution
