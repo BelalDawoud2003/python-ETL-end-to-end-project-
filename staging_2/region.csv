@@ -1,0 +1,196 @@
+,region_id,city,state
+0,1,Orchard Park,NY
+1,2,Campbell,CA
+2,3,Redondo Beach,CA
+3,4,Uniondale,NY
+4,5,Sacramento,CA
+5,6,Fairport,NY
+6,7,Buffalo,NY
+7,8,Jackson Heights,NY
+8,9,Port Washington,NY
+9,10,Monroe,NY
+10,11,Monsey,NY
+11,12,Hempstead,NY
+12,13,Longview,TX
+13,14,Forney,TX
+14,15,Plattsburgh,NY
+15,16,New York,NY
+16,17,Scarsdale,NY
+17,18,Canandaigua,NY
+19,19,Sugar Land,TX
+20,20,Victoria,TX
+21,21,East Northport,NY
+22,22,Hollis,NY
+23,23,Atwater,CA
+24,24,Mahopac,NY
+25,25,Long Beach,NY
+26,26,Sunnyside,NY
+27,27,Ossining,NY
+29,28,Torrance,CA
+30,29,Oakland,CA
+31,30,Fullerton,CA
+32,31,Palos Verdes Peninsula,CA
+34,32,Baldwinsville,NY
+35,33,Liverpool,NY
+36,34,Maspeth,NY
+37,35,Astoria,NY
+38,36,Lancaster,NY
+39,37,Encino,CA
+40,38,Queensbury,NY
+41,39,Richmond Hill,NY
+42,40,Houston,TX
+43,41,Elmont,NY
+44,42,Bethpage,NY
+46,43,San Lorenzo,CA
+50,44,Merrick,NY
+51,45,East Elmhurst,NY
+52,46,Glendora,CA
+53,47,Utica,NY
+56,48,Bronx,NY
+57,49,Central Islip,NY
+58,50,Rockville Centre,NY
+59,51,San Carlos,CA
+60,52,San Angelo,TX
+62,53,Amityville,NY
+63,54,Desoto,TX
+64,55,Rome,NY
+65,56,Garland,TX
+67,57,Rowlett,TX
+68,58,Rocklin,CA
+71,59,South El Monte,CA
+73,60,North Tonawanda,NY
+75,61,Port Jefferson Station,NY
+76,62,Richardson,TX
+78,63,Baldwin,NY
+81,64,Coachella,CA
+83,65,Lindenhurst,NY
+84,66,Huntington Station,NY
+85,67,Oswego,NY
+86,68,Duarte,CA
+88,69,Upland,CA
+89,70,Franklin Square,NY
+90,71,San Diego,CA
+91,72,Farmingdale,NY
+92,73,Troy,NY
+94,74,Saratoga Springs,NY
+95,75,Bayside,NY
+96,76,Yuba City,CA
+99,77,Commack,NY
+102,78,Syosset,NY
+104,79,Woodhaven,NY
+105,80,Elmhurst,NY
+107,81,Floral Park,NY
+108,82,San Jose,CA
+109,83,Anaheim,CA
+111,84,West Hempstead,NY
+115,85,Euless,TX
+117,86,Pittsford,NY
+119,87,Fresno,CA
+121,88,Howard Beach,NY
+122,89,Corpus Christi,TX
+125,90,Newburgh,NY
+128,91,Lockport,NY
+131,92,Hamburg,NY
+132,93,Coram,NY
+136,94,Massapequa,NY
+138,95,Spring Valley,NY
+140,96,Saint Albans,NY
+143,97,Port Chester,NY
+144,98,Staten Island,NY
+146,99,Smithtown,NY
+149,100,Huntington,NY
+151,101,Plainview,NY
+153,102,Helotes,TX
+154,103,Bay Shore,NY
+155,104,West Islip,NY
+156,105,Banning,CA
+163,106,Woodside,NY
+167,107,South Ozone Park,NY
+169,108,Oxnard,CA
+171,109,Santa Clara,CA
+183,110,Webster,NY
+186,111,Apple Valley,CA
+192,112,Hicksville,NY
+193,113,Santa Cruz,CA
+196,114,Rego Park,NY
+197,115,Amarillo,TX
+198,116,New Windsor,NY
+200,117,Ballston Spa,NY
+204,118,Jamaica,NY
+205,119,Brooklyn,NY
+207,120,Ridgecrest,CA
+208,121,Selden,NY
+209,122,Albany,NY
+214,123,Whitestone,NY
+218,124,Oceanside,NY
+220,125,Mcallen,TX
+222,126,Patchogue,NY
+223,127,Lawndale,CA
+227,128,Brentwood,NY
+228,129,Holbrook,NY
+229,130,Deer Park,NY
+233,131,East Meadow,NY
+238,132,Canyon Country,CA
+243,133,San Pablo,CA
+245,134,Niagara Falls,NY
+249,135,El Paso,TX
+254,136,Massapequa Park,NY
+258,137,Pleasanton,CA
+263,138,Garden City,NY
+268,139,Bellmore,NY
+269,140,Kingston,NY
+272,141,Ozone Park,NY
+273,142,Hopewell Junction,NY
+275,143,Ronkonkoma,NY
+282,144,Poughkeepsie,NY
+285,145,Levittown,NY
+289,146,Centereach,NY
+299,147,Mountain View,CA
+303,148,Springfield Gardens,NY
+309,149,Middle Village,NY
+322,150,Schenectady,NY
+337,151,Forest Hills,NY
+340,152,Mount Vernon,NY
+357,153,Wantagh,NY
+358,154,Pomona,CA
+360,155,Valley Stream,NY
+363,156,Ithaca,NY
+370,157,Rosedale,NY
+371,158,Wappingers Falls,NY
+383,159,Flushing,NY
+390,160,Los Banos,CA
+399,161,Depew,NY
+405,162,Shirley,NY
+408,163,Carmel,NY
+414,164,Harlingen,TX
+427,165,New Rochelle,NY
+441,166,Yonkers,NY
+445,167,Amsterdam,NY
+446,168,Vista,CA
+447,169,Rochester,NY
+458,170,Bakersfield,CA
+461,171,Nanuet,NY
+470,172,Freeport,NY
+480,173,Lake Jackson,TX
+491,174,Corona,NY
+509,175,South Richmond Hill,NY
+510,176,Fort Worth,TX
+520,177,Glen Cove,NY
+527,178,New City,NY
+528,179,Santa Monica,CA
+539,180,Ontario,CA
+571,181,Auburn,NY
+579,182,Los Angeles,CA
+602,183,New Hyde Park,NY
+614,184,Fresh Meadows,NY
+616,185,Yorktown Heights,NY
+621,186,Clifton Park,NY
+652,187,Jamestown,NY
+678,188,West Babylon,NY
+718,189,Endicott,NY
+721,190,San Antonio,TX
+787,191,Copperas Cove,TX
+1069,192,Oakland Gardens,NY
+1142,193,Tonawanda,NY
+1154,194,Far Rockaway,NY
+1360,195,Westbury,NY

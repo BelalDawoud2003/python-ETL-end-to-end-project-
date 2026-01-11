@@ -1,0 +1,196 @@
+region_id,city,state
+1,Orchard Park,NY
+2,Campbell,CA
+3,Redondo Beach,CA
+4,Uniondale,NY
+5,Sacramento,CA
+6,Fairport,NY
+7,Buffalo,NY
+8,Jackson Heights,NY
+9,Port Washington,NY
+10,Monroe,NY
+11,Monsey,NY
+12,Hempstead,NY
+13,Longview,TX
+14,Forney,TX
+15,Plattsburgh,NY
+16,New York,NY
+17,Scarsdale,NY
+18,Canandaigua,NY
+19,Sugar Land,TX
+20,Victoria,TX
+21,East Northport,NY
+22,Hollis,NY
+23,Atwater,CA
+24,Mahopac,NY
+25,Long Beach,NY
+26,Sunnyside,NY
+27,Ossining,NY
+28,Torrance,CA
+29,Oakland,CA
+30,Fullerton,CA
+31,Palos Verdes Peninsula,CA
+32,Baldwinsville,NY
+33,Liverpool,NY
+34,Maspeth,NY
+35,Astoria,NY
+36,Lancaster,NY
+37,Encino,CA
+38,Queensbury,NY
+39,Richmond Hill,NY
+40,Houston,TX
+41,Elmont,NY
+42,Bethpage,NY
+43,San Lorenzo,CA
+44,Merrick,NY
+45,East Elmhurst,NY
+46,Glendora,CA
+47,Utica,NY
+48,Bronx,NY
+49,Central Islip,NY
+50,Rockville Centre,NY
+51,San Carlos,CA
+52,San Angelo,TX
+53,Amityville,NY
+54,Desoto,TX
+55,Rome,NY
+56,Garland,TX
+57,Rowlett,TX
+58,Rocklin,CA
+59,South El Monte,CA
+60,North Tonawanda,NY
+61,Port Jefferson Station,NY
+62,Richardson,TX
+63,Baldwin,NY
+64,Coachella,CA
+65,Lindenhurst,NY
+66,Huntington Station,NY
+67,Oswego,NY
+68,Duarte,CA
+69,Upland,CA
+70,Franklin Square,NY
+71,San Diego,CA
+72,Farmingdale,NY
+73,Troy,NY
+74,Saratoga Springs,NY
+75,Bayside,NY
+76,Yuba City,CA
+77,Commack,NY
+78,Syosset,NY
+79,Woodhaven,NY
+80,Elmhurst,NY
+81,Floral Park,NY
+82,San Jose,CA
+83,Anaheim,CA
+84,West Hempstead,NY
+85,Euless,TX
+86,Pittsford,NY
+87,Fresno,CA
+88,Howard Beach,NY
+89,Corpus Christi,TX
+90,Newburgh,NY
+91,Lockport,NY
+92,Hamburg,NY
+93,Coram,NY
+94,Massapequa,NY
+95,Spring Valley,NY
+96,Saint Albans,NY
+97,Port Chester,NY
+98,Staten Island,NY
+99,Smithtown,NY
+100,Huntington,NY
+101,Plainview,NY
+102,Helotes,TX
+103,Bay Shore,NY
+104,West Islip,NY
+105,Banning,CA
+106,Woodside,NY
+107,South Ozone Park,NY
+108,Oxnard,CA
+109,Santa Clara,CA
+110,Webster,NY
+111,Apple Valley,CA
+112,Hicksville,NY
+113,Santa Cruz,CA
+114,Rego Park,NY
+115,Amarillo,TX
+116,New Windsor,NY
+117,Ballston Spa,NY
+118,Jamaica,NY
+119,Brooklyn,NY
+120,Ridgecrest,CA
+121,Selden,NY
+122,Albany,NY
+123,Whitestone,NY
+124,Oceanside,NY
+125,Mcallen,TX
+126,Patchogue,NY
+127,Lawndale,CA
+128,Brentwood,NY
+129,Holbrook,NY
+130,Deer Park,NY
+131,East Meadow,NY
+132,Canyon Country,CA
+133,San Pablo,CA
+134,Niagara Falls,NY
+135,El Paso,TX
+136,Massapequa Park,NY
+137,Pleasanton,CA
+138,Garden City,NY
+139,Bellmore,NY
+140,Kingston,NY
+141,Ozone Park,NY
+142,Hopewell Junction,NY
+143,Ronkonkoma,NY
+144,Poughkeepsie,NY
+145,Levittown,NY
+146,Centereach,NY
+147,Mountain View,CA
+148,Springfield Gardens,NY
+149,Middle Village,NY
+150,Schenectady,NY
+151,Forest Hills,NY
+152,Mount Vernon,NY
+153,Wantagh,NY
+154,Pomona,CA
+155,Valley Stream,NY
+156,Ithaca,NY
+157,Rosedale,NY
+158,Wappingers Falls,NY
+159,Flushing,NY
+160,Los Banos,CA
+161,Depew,NY
+162,Shirley,NY
+163,Carmel,NY
+164,Harlingen,TX
+165,New Rochelle,NY
+166,Yonkers,NY
+167,Amsterdam,NY
+168,Vista,CA
+169,Rochester,NY
+170,Bakersfield,CA
+171,Nanuet,NY
+172,Freeport,NY
+173,Lake Jackson,TX
+174,Corona,NY
+175,South Richmond Hill,NY
+176,Fort Worth,TX
+177,Glen Cove,NY
+178,New City,NY
+179,Santa Monica,CA
+180,Ontario,CA
+181,Auburn,NY
+182,Los Angeles,CA
+183,New Hyde Park,NY
+184,Fresh Meadows,NY
+185,Yorktown Heights,NY
+186,Clifton Park,NY
+187,Jamestown,NY
+188,West Babylon,NY
+189,Endicott,NY
+190,San Antonio,TX
+191,Copperas Cove,TX
+192,Oakland Gardens,NY
+193,Tonawanda,NY
+194,Far Rockaway,NY
+195,Westbury,NY

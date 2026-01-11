@@ -1,0 +1,8 @@
+,category_id,category_name,extracted_date,data_source
+0,1,Children Bicycles,2025-11-24 02:47:01,from_csv_file
+1,2,Comfort Bicycles,2025-11-24 02:47:01,from_csv_file
+2,3,Cruisers Bicycles,2025-11-24 02:47:01,from_csv_file
+3,4,Cyclocross Bicycles,2025-11-24 02:47:01,from_csv_file
+4,5,Electric Bikes,2025-11-24 02:47:01,from_csv_file
+5,6,Mountain Bikes,2025-11-24 02:47:01,from_csv_file
+6,7,Road Bikes,2025-11-24 02:47:01,from_csv_file

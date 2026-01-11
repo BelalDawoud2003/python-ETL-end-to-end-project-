@@ -1,0 +1,11 @@
+staff_id,first_name,last_name,email,phone,active,store_id,manager_id,extracted_date,data_source
+1,Fabiola,Jackson,fabiola.jackson@bikes.shop,+0000000000,1,,,2025-11-24 02:47:01,from_csv_file
+2,Mireya,Copeland,mireya.copeland@bikes.shop,+0000000000,1,1,1,2025-11-24 02:47:01,from_csv_file
+3,Genna,Serrano,genna.serrano@bikes.shop,+0000000000,1,1,2,2025-11-24 02:47:01,from_csv_file
+4,Virgie,Wiggins,virgie.wiggins@bikes.shop,+0000000000,1,1,2,2025-11-24 02:47:01,from_csv_file
+5,Jannette,David,jannette.david@bikes.shop,+0000000000,1,2,1,2025-11-24 02:47:01,from_csv_file
+6,Marcelene,Boyer,marcelene.boyer@bikes.shop,+0000000000,1,2,5,2025-11-24 02:47:01,from_csv_file
+7,Venita,Daniel,venita.daniel@bikes.shop,+0000000000,1,2,5,2025-11-24 02:47:01,from_csv_file
+8,Kali,Vargas,kali.vargas@bikes.shop,+0000000000,1,3,1,2025-11-24 02:47:01,from_csv_file
+9,Layla,Terrell,layla.terrell@bikes.shop,+0000000000,1,3,7,2025-11-24 02:47:01,from_csv_file
+10,Bernardine,Houston,bernardine.houston@bikes.shop,+0000000000,1,3,7,2025-11-24 02:47:01,from_csv_file
