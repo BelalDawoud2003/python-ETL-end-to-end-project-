@@ -209,6 +209,10 @@ Revenue comparison between USD and local currency is supported
 8. Visualizations
 
 The following charts were generated using Python and Matplotlib to support analysis:
+![Modeling](images/v1.png)
+![Modeling](images/v2.png)
+![Modeling](images/v3.png)
+![Modeling](images/v4.png)
 
 Total Sales by Category
 
